@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice-jest-enzyme",
+  "version": "1.0.0",
+  "description": "Practice repo for Jest and Enzyme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLejay/testing-practice-jest-enzyme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLejay/testing-practice-jest-enzyme/issues"
+  },
+  "homepage": "https://github.com/PLejay/testing-practice-jest-enzyme#readme"
+}
